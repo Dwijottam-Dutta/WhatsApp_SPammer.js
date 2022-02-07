@@ -18,26 +18,18 @@ A simple JS bot like script which spams on WhatsApp @dwijottam
 
 #### What does WhatsApp_Spammer.js do ?
 
-WhatsApp_Spammer.js just spams your selected contact, without your typing speed or Ctrl+V on Whatsapp Web... You just need to type the message on the prompt then write hom much times you want to and then MAGIC! Someover times its slow because your times goes above 100 messages, sometimes this crashes Whatsapp Web only depending upon your spamming times, but never forget to try, because it would blow your mind!
+> WhatsApp_Spammer.js just spams your selected contact, without your typing speed or Ctrl+V on Whatsapp Web... You just need to type the message on the prompt then write hom much times you want to and then MAGIC! Someover times its slow because your times goes above 100 messages, sometimes this crashes Whatsapp Web only depending upon your spamming times, but never forget to try, because it would blow your mind!
 
 #### Does this script take our data ?
 
-Nope, not at all or rather, never... We just give you the comfort to have fun nothing else...
+> Nope, not at all or rather, never... We just give you the comfort to have fun nothing else...
 
-### Can this script spam over 500 messages ?
+#### Can this script spam over 500 messages ?
 
-Yes, of course, but again it would depend on your RAM and CPU power, as 500 messages would send so many request. It would take that much power of your device too...
+> Yes, of course, but again it would depend on your RAM and CPU power, as 500 messages would send so many request. It would take that much power of your device too...
 
   
 ## Get Started
-
-#### Clone the project
-
-```bash
-  git clone https://github.com/Dwijottam-Dutta/Hack_TypeRacer.js.git
-```
-
-#### Go to the project directory
 
 #### Copy the code from `WhatsApp_Spammer.js`
 
