@@ -1,5 +1,5 @@
 // OWNER OF THIS FILE IS DWIJOTTAM DUTTA
-// If we get anything about copying and publishing by your own name, without the licence file, you can we in trouble
+// If we get anything about copying and publishing by your own name, without the licence file, you can be in trouble
 
 function BOOT() {
 	// Import fonts for console design
